@@ -35,7 +35,7 @@ Si vous n'utilisez pas encore de terminal, voici une liste de recommandations no
 
 - *macOS* : iTerm2, Terminal.app ;
 - *Linux* : GNOME Shell, Terminator ;
-- *Windows* : PowerShell, Console.
+- *Windows* : PowerShell, Console, Git Bash.
 
 .Terminal iTerm2 sous macOS.
 image::images/terminal.png[align="center",width="85%"]
