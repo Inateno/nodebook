@@ -3112,6 +3112,11 @@ Bref, pour vous aider à choisir — et ce peu importe le contexte — voici une
 - *maintenance* : si personne ne met à jour le module alors que des contributions se présentent, cela peut se révéler bloquant, dénoter une *obsolescence* d'idée ou impliquer l'existence d'un _fork_ de ce module ;
 - *état des contributions* : les mainteneurs répondent-ils aux contributeurs ? Les contributions de code sont-elles acceptées dans des conditions légitimes ? Ou tout simplement, y'a-t-il beaucoup de déclaration de bugs en suspens ? Telles sont les indicateurs de vitalité pour estimer la gravité et la probabilité que la bibliothèque nous explose au visage lorsqu'on ne s'y attendra pas.
 
+Voici un site utilitaire se basant sur les métriques citées précédemment. Il vous permet en un clin d'oeil d'avoir un comparatif entre plusieurs modules souvent équivalent: [URL]#https://npms.io#
+
+Attention tout de même. Un module ayant fait ses preuves et n'ayant plus un grand besoin d'évolution se verra attribuer une mauvaise note sur le critère "maintenance", de même un module fiable et maintenu peux ne pas être populaire sans que cela ne gage d'un mauvais module
+
+
 .Page npm d'un module populaire et fiable
 image::images/module-npm-ok.png[align="center",width="85%"]
 
